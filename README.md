@@ -1,2 +1,2 @@
 # Resume-ATS-Checker
-Checks the ATS ccore of resume based on the Job Description Provided
+Checks the ATS Score of resume based on the Job Description Provided
